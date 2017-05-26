@@ -1,6 +1,13 @@
 ### Overview
 Content for machine learning course. Do not read if you don't want to break the code of honor.
 
+### About Octave
+
+See all your variables in scope with `who` or `whos`  
+Remove variables with `clear`  
+Load files with `load(filename)`  
+Run script with `source test.m`
+
 ### For terminal on OS X
 
 Edit and extend `.bash_profile`
