@@ -3,10 +3,13 @@ Content for machine learning course. Do not read if you don't want to break the 
 
 ### About Octave
 
+Run Octave in Terminal with `/usr/local/octave/3.8.0/bin/octave-3.8.0`  
 See all your variables in scope with `who` or `whos`  
 Remove variables with `clear`  
 Load files with `load(filename)`  
-Run script with `source test.m`
+Run script with `source test.m`  
+Close plots with `close`  
+`A∖b` will give you the value of `A^−1*b`  
 
 ### For terminal on OS X
 
